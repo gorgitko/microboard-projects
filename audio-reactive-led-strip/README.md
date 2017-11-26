@@ -42,7 +42,7 @@ Wiring is simple:
   - GND goes to GND pin.
   - Data lines both on WS2812b and WS2813 (on my LED strip called B0 and D0) go to D4 pin.
   
-## How to make it reactive (software section)
+## How to make it audio reactive (software section)
 We are using [Audio Reactive LED Strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) library to create these beatiful LED strip audio reactions. You can read the instructions there to get more details, but if you follow my simplified instructions here, you will be probably also successful.
 
 ### Computer side
