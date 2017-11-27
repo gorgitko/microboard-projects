@@ -26,7 +26,7 @@ How it looks like in real:
 
 ![Overall](https://ctrlv.cz/shots/2017/11/26/WyfY.png)
 ![Power supply detail](https://ctrlv.cz/shots/2017/11/26/qfGA.png)
-![LED strip detail](https://ctrlv.cz/shots/2017/11/26/ORLr.png)
+![LED strip detail](https://ctrlv.cz/shots/2017/11/27/7Fai.png)
 ![Microboard detail](https://ctrlv.cz/shots/2017/11/26/gSdd.png)
 
 Wiring is simple:
@@ -52,7 +52,7 @@ We are using [Audio Reactive LED Strip](https://github.com/scottlawsonbc/audio-r
   - Switch to new venv: `$ source activate ledstrip` (`$ activate ledstrip` on Windows)
   - install the last dependency: `$ pip install pyaudio`
 - Download Audio Reactive LED Strip repository, unzip it somewhere.
-- Open `python/config.py` and set up the constants. `UDP_IP`, `UDP_PORT` and `N_PIXELS` must match the constants in `ws2812_controller.ino` (see below)!
+- Open `python/config.py` and set up the constants. `UDP_IP`, `UDP_PORT` and `N_PIXELS` must match the constants in `ws2812_controller.ino` (see below)! Later you can play there with other options, such as audio processing.
 - [Set up audio input](https://github.com/scottlawsonbc/audio-reactive-led-strip#audio-input). In Windows, the easiest is the stereo mix method.
 
 ### Microboard side
