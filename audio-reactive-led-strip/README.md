@@ -22,7 +22,7 @@ This is wiring diagram from https://learn.adafruit.com/adafruit-neopixel-ubergui
 
 ![abc](https://cdn-learn.adafruit.com/assets/assets/000/030/892/original/leds_Wiring-Diagram.png?1456961114)
 
-How it looks like in real:
+[How it looks like in real](https://owncloud.cesnet.cz/index.php/s/WBkJukrtVnJH1TQ):
 
 ![Overall](https://ctrlv.cz/shots/2017/11/26/WyfY.png)
 ![Power supply detail](https://ctrlv.cz/shots/2017/11/26/qfGA.png)
