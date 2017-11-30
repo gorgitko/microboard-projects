@@ -1,8 +1,8 @@
 # Audio reactive LED strip
 This is a guide from electronics begineer trying to have some fun with LED strip and ESP8266 based microboard :) I will show you how to build your own audio reactive LED strip using the Wemos D1 Mini Pro microboard. I suppose you have some basic knowledge of microboards and other stuff, so I won't explain everything in detail (but of course you can ask me in issues). Some demonstrations (click for YouTube video):
 
-[![Video #1](https://img.youtube.com/vi/WMm4V7VpMeQ/0.jpg)](https://www.youtube.com/watch?v=WMm4V7VpMeQ)
-[![Video #2](https://img.youtube.com/vi/8EOnbsJb-b4/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/8EOnbsJb-b4)
+[![Video #1](https://img.youtube.com/vi/WMm4V7VpMeQ/0.jpg)](https://youtu.be/WMm4V7VpMeQ)
+[![Video #2](https://img.youtube.com/vi/8EOnbsJb-b4/0.jpg)](https://youtu.be/8EOnbsJb-b4)
 
 ## Hardware
 I have bought most of the HW at AliExpress, so I give you also links. Tools are not listed.
